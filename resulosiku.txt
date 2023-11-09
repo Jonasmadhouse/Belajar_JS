@@ -6,6 +6,7 @@
 7. membuat skolah
   - kelas iot
   - kelas robot
+  - elektronika
 
 - Struktur data Dasar
 - menambhkan python
