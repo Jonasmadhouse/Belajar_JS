@@ -4,5 +4,8 @@
 5. Menyiapkan fasilitas
 6. membuat robot
 7. membuat skolah
+  - kelas iot
+  - kelas robot
 
 - Struktur data Dasar
+- menambhkan python
