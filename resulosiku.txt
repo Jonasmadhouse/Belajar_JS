@@ -1,8 +1,12 @@
 1. Belajar
 2. Menyiapkan materi
+  - robotika
+  - elektro 1
+  - elektro 2
 3. Menambah wawasan
 5. Menyiapkan fasilitas
 6. membuat robot
+  - line folower
 7. membuat skolah
 
 - Struktur data Dasar
