@@ -4,3 +4,5 @@
 5. Menyiapkan fasilitas
 6. membuat robot
 7. membuat skolah
+
+- Struktur data Dasar
