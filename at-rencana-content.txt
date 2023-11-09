@@ -1,0 +1,6 @@
+RENCANA KONTEN
+- IoT
+- PHP framework
+- Buat video tutorial
+-Vlog
+-Framework6
