@@ -4,3 +4,10 @@ RENCANA KONTEN
 - Buat video tutorial
 -Vlog
 -Framework6
+
+
+//========== ini adalah penambahan konten =============
+
+1 sukses
+2 kaya
+3 bisa jalan kemana saya
